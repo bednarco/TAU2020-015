@@ -1,0 +1,1 @@
+--metric Likelihood --metric Accuracy --metric {Likelihood:N<Likelihood>,Accuracy:N<Accuracy>}P<2>{f<in[2]:for-humans>N<+H>,f<in[3]:contaminated>N<+C>,f<in[3]:not-contaminated>N<-C>}  --precision 5
